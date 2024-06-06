@@ -1,0 +1,9 @@
+com\mycompany\jee_examen\AjoutEtudiantServlet.class
+com\mycompany\jee_examen\ConnexionDB.class
+com\mycompany\jee_examen\ModifierEtudiantServlet.class
+com\mycompany\jee_examen\ListeEtudiantsServlet.class
+com\mycompany\jee_examen\LoginServlet.class
+com\mycompany\jee_examen\AccueilAdminServlet.class
+SupprimerEtudiantServlet.class
+com\mycompany\jee_examen\RegisterServlet.class
+com\mycompany\jee_examen\LogoutServlet.class
